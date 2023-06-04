@@ -1,0 +1,21 @@
+*{
+    cursor:pointer;
+    color:#fff;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #808080;
+}
+button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding:6px 28px;
+    font-weight:300;
+    background-color: #7346c2;
+    border-radius:20px;
+    margin:300px auto;
+    font-size:22px;
+}

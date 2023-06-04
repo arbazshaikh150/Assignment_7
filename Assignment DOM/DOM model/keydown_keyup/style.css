@@ -1,0 +1,14 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#div{
+    padding: 6px 15px;
+    border-radius:25px;
+    font-size:18px;
+    font-weight:300;
+    background-color: #7283c8;
+    margin:300px auto;
+}
